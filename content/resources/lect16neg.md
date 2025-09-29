@@ -5,6 +5,8 @@ description: This resource includes notes on 'Introduction to Negotiation and Di
 file: /courses/11-201-gateway-planning-action-fall-2005/32838fd99806964a7d9691a3645bd26c_lect16neg.pdf
 file_size: 45992
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

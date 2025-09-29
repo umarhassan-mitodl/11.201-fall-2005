@@ -5,6 +5,8 @@ description: This resource includes notes on 'Planning Traditions' by Prof. de S
 file: /courses/11-201-gateway-planning-action-fall-2005/7c201acbd1aca0779fb7b36a666e500b_lect2.pdf
 file_size: 52359
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

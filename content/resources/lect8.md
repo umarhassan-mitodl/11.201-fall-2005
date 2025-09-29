@@ -5,6 +5,8 @@ description: 'This resource includes notes on ''Development and Mobilization: Na
 file: /courses/11-201-gateway-planning-action-fall-2005/56813cced619dd925d414dda6a089edd_lect8.pdf
 file_size: 23073
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

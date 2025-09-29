@@ -4,6 +4,8 @@ description: This resource contains reading tips and study questions on session 
 file: /courses/11-201-gateway-planning-action-fall-2005/4cecf9f3a74f8436d7f7ae848e423534_studyq15.pdf
 file_size: 24211
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

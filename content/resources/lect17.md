@@ -5,6 +5,8 @@ description: This resource includes notes on 'Negotiation and Coalition Building
 file: /courses/11-201-gateway-planning-action-fall-2005/7256bb0737bc872a249bd64aa90d2f52_lect17.pdf
 file_size: 77459
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

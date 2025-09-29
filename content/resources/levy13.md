@@ -4,6 +4,8 @@ description: This resource includes notes on 'Economics Review' by Prof. Levy.
 file: /courses/11-201-gateway-planning-action-fall-2005/94855c3e6750b7cc9e0d53c9fcd723f3_levy13.pdf
 file_size: 59631
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

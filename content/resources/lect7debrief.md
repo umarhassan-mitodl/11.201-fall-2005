@@ -5,6 +5,8 @@ description: 'This resource includes debrief on ''Debriefing the briefings: Publ
 file: /courses/11-201-gateway-planning-action-fall-2005/5280abd2da1f06fa25fd295d217aa091_lect7debrief.pdf
 file_size: 200858
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource includes background on the cases discusses in lecture
 file: /courses/11-201-gateway-planning-action-fall-2005/43b7cd9ebdfc65b9ba24cdd89e9fef9c_lect4bkgd.pdf
 file_size: 17793
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

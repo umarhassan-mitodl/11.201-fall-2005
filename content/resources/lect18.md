@@ -5,6 +5,8 @@ description: 'This resource includes notes on ''Planning and Human Diversity: Le
 file: /courses/11-201-gateway-planning-action-fall-2005/224fe58b42da8eed89757953856eb0ae_lect18.pdf
 file_size: 670233
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
