@@ -5,8 +5,6 @@ description: 'This resource contains student assignment on the topic - Case 1: H
 file: /courses/11-201-gateway-planning-action-fall-2005/4dd8b2b73439207c85c8d169e1f96790_assn2gp.pdf
 file_size: 49960
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

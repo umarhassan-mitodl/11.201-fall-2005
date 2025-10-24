@@ -4,8 +4,6 @@ description: This resource includes notes on 'Course Review' by Prof. de Souza B
 file: /courses/11-201-gateway-planning-action-fall-2005/3136ab5732dde0ebc604a88d1703feee_lect19rev.pdf
 file_size: 72643
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

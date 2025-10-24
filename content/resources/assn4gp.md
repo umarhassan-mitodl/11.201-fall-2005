@@ -6,8 +6,6 @@ description: 'This resource contains students assignment on the topic - Case 3: 
 file: /courses/11-201-gateway-planning-action-fall-2005/e1f1dff47bec6d89890d587c5f8be6ed_assn4gp.pdf
 file_size: 46146
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
