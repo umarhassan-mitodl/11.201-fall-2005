@@ -187,7 +187,7 @@ Guest Lecturer: Andrew Altman, MCP '88
 
 The Growth Machine and the Public: Reinventing the Anacostia Waterfront in Washington, DC. ({{% resource_link "f0b2c28d-1b0e-ac43-d64d-7b8baa12ad43" "PDF" %}})
 
-Altman, Andrew. "[Washington, D.C.](https://urbanage.lsecities.net/talks/the-urban-age-context-washington-dc#audio)" Presented to the Urban Age Mexico City Conference. Urban Age, New York, NY, February 2006. 
+Altman, Andrew. "{{% resource_link "d5a6a276-983f-4acb-8c26-558610d7630a" "Washington, D.C." %}}" Presented to the Urban Age Mexico City Conference. Urban Age, New York, NY, February 2006. 
 
 Study Questions ({{% resource_link "e3ea3d4e-a197-3ca5-9e77-806a4ec5f95e" "PDF" %}})
 

@@ -87,7 +87,7 @@ Wildavsky, Aaron. "If planning is everything, maybe it is nothing." *Policy Scie
 
 "The Shaming of America." *The Economist*, September 10, 2005.
 
-"[Rebuilding and 'The Resilient City](http://www.npr.org/templates/story/story.php?storyId=4844247).'" *NPR Broadcast*. Morning Edition, September 13, 2005.
+"{{% resource_link "9d925490-0cc4-4db9-bb3f-deac90e71d8b" "Rebuilding and 'The Resilient City" %}}.'" *NPR Broadcast*. Morning Edition, September 13, 2005.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 W2
@@ -118,9 +118,9 @@ Review Session - Same Classroom, Remaining Reviews
 
 *Recommended Readings*
 
-Housing Link. "Housing Terms." ([PDF](https://www.housinglink.org/Files/Housing%20Terms.pdf))
+Housing Link. "Housing Terms." ({{% resource_link "e093111f-7512-46be-9b4f-8f91971455b1" "PDF" %}})
 
-Housing Link. "Abbreviations commonly used in housing." ([PDF](http://www.housinglink.org/Files/Abbreviations%20Used%20In%20Housing.pdf))
+Housing Link. "Abbreviations commonly used in housing." ({{% resource_link "816f20bb-04c5-4cde-b073-7bee0b3cd4cb" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L5
@@ -172,7 +172,7 @@ Case Introduction: Planning from Above vs. Planning from Below (Social Mobilizat
 
 *Required Readings*
 
-Roy, Arundhati. "[The Greater Common Good](http://www.frontline.in/static/html/fl1611/16110040.htm)." 1999.
+Roy, Arundhati. "{{% resource_link "c6eb897f-de82-4bce-b4c1-732980ece5ba" "The Greater Common Good" %}}." 1999.
 
 Khagram, Sanjeev. *Dams and development: Transnational Struggles for Water and Power*. Ithaca, NY: Cornell University Press, 2005, chapter 3. ISBN: 0801489075.
 
@@ -198,7 +198,7 @@ Rajagopal, Balakrishnan. "Limits of law in counter-hegemonic globalization: The 
 
 Sethi, Harsh. "Survival and Democracy: Ecological Struggles in India." In *New Social Movements in the South*. Edited by Ponna Wignaraja. London, UK: Zed Books, 1993, pp. 122-148. ISBN: 1856491080.
 
-[Dams and Development: A New Framework for Decision-Making: The Report of the World Commission on Dams](http://www.archive.org/details/DamsAndDevelopmentANewFrameworkForDecision-making). London, UK: Earthscan, 2000, chapters 1, 4 and 7. ISBN: 1853837989.
+{{% resource_link "e2e711b5-7cb1-43f2-aa91-f34ed6af01a2" "Dams and Development: A New Framework for Decision-Making: The Report of the World Commission on Dams" %}}. London, UK: Earthscan, 2000, chapters 1, 4 and 7. ISBN: 1853837989.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R3
@@ -222,23 +222,23 @@ Jayal, Niraja Gopal. *Democracy and the State: Welfare, Secularism and Developme
 
 Baviskar, Amita. *In the Belly of the River: Tribal Conflicts Over Development in the Narmada Valley*. New Delhi, India; New York, NY: Oxford University Press, 1995.
 
-PBS. "[The Dammed: Resources](http://www.pbs.org/wnet/wideangle/episodes/the-damned/resources/?p=3109)."
+PBS. "{{% resource_link "6942179a-a7f6-4960-9045-41b9a5afdc98" "The Dammed: Resources" %}}."
 
-[Friends of the River Narmada](https://sites.google.com/site/narmadaorgin/)
+{{% resource_link "e283c626-fd8b-45e1-8d44-1cbf6f342392" "Friends of the River Narmada" %}}
 
-[The Narmada Valley Development Authority, the state-level organization that oversees the dam construction in Madhya Pradesh](https://web.archive.org/web/20220819143754/https://nvda.mp.gov.in/)
+{{% resource_link "a255aa0e-c9e2-45f2-938f-7af9a690b9a2" "The Narmada Valley Development Authority, the state-level organization that oversees the dam construction in Madhya Pradesh" %}}
 
-[The Narmada Control Authority (NCA)](https://jalshakti-dowr.gov.in/narmada-control-authority/): The overseeing organization for the whole project. See especially the 'Frequently asked questions' section in the NCA's Web site.
+{{% resource_link "72c3fd42-4223-4b3c-bce1-b7b2592deb0d" "The Narmada Control Authority (NCA)" %}}: The overseeing organization for the whole project. See especially the 'Frequently asked questions' section in the NCA's Web site.
 
-[Report of the Indian People's Tribunal on Environment and Human Rights.](http://worldcat.org/identities/lccn-no00050844/)
+{{% resource_link "855fa0ea-3a89-46f5-a10f-cea78bf46413" "Report of the Indian People's Tribunal on Environment and Human Rights." %}}
 
-National Water Policy, 2002, Government of India. ([PDF](https://nwm.gov.in/sites/default/files/nwp20025617515534.pdf))
+National Water Policy, 2002, Government of India. ({{% resource_link "70526b30-cf6f-4f31-96bd-ddf0819e2bd5" "PDF" %}})
 
-[Response to the WCD Report](http://www.unep.org/dams/documents/default.asp?documentid=524) (see especially the World Bank's and ICOLD member's)
+{{% resource_link "bca2bab3-7a57-4316-aced-36a539075139" "Response to the WCD Report" %}} (see especially the World Bank's and ICOLD member's)
 
-[World Bank Water Resources Sector Strategy 2004](http://www-wds.worldbank.org/external/default/main?pagePK=64193027&piPK=64187937&theSitePK=523679&menuPK=64187510&searchMenuPK=64187511&siteName=WDS&entityID=000090341_20040601150257)
+{{% resource_link "4c491315-f4df-4558-b150-6157db1f15e6" "World Bank Water Resources Sector Strategy 2004" %}}
 
-[World Bank's Inspection Panel](https://www.inspectionpanel.org/)
+{{% resource_link "699b497b-ee1b-4e64-9a43-488f9b08e0f9" "World Bank's Inspection Panel" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 L11
@@ -254,7 +254,7 @@ Sen, Amartya. *Development as Freedom*. New York, NY: Anchor Books, 1999, pp. 3-
 
 PPD. "Planning as social mobilization." Chapter 6, pp. 225-250, 257-308.
 
-de Souza Briggs, Xavier. "[Organizing Stakeholders, Building Movement, Setting the Agenda](http://web.mit.edu/cpsproject/strategy_tools/organizing.html)." The Community Problem-Solving Project, MIT, Cambridge, MA, 2003.
+de Souza Briggs, Xavier. "{{% resource_link "d58167ff-01a2-4d8f-9c97-a68f6adc80ba" "Organizing Stakeholders, Building Movement, Setting the Agenda" %}}." The Community Problem-Solving Project, MIT, Cambridge, MA, 2003.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Unit Four: (Case 3) The Growth Machine and the Public Interest - Reinventing the Anacostia Waterfront in Washington, DC - Andrew Altman, MCP '88**
@@ -272,7 +272,7 @@ Guest Lecturer: Andrew Altman, MCP '88
 
 Katz, Bruce, and Andy Altman. "An Urban Renaissance in a Suburban Nation." *Ford Foundation Report* (Spring/summer 2005): 32-33.
 
-"[The Anacostia Waterfront: Imagine, Act, Transform Washington, DC](https://planning.dc.gov/sites/default/files/dc/sites/op/publication/attachments/The%20Anacostia%20Waterfront%20Framework%20Plan%202003.pdf)." Planning brochure, The Anacostia Waterfront Initiative, Washington, DC, 2003.
+"{{% resource_link "27b036e0-43c9-4d9b-bdd7-c6c86c8001eb" "The Anacostia Waterfront: Imagine, Act, Transform Washington, DC" %}}." Planning brochure, The Anacostia Waterfront Initiative, Washington, DC, 2003.
 
 Bernstein, Fred. "Revitalizing the banks of Washington's 'Forgotten River.'" *The New York Times*, March 27, 2005.
 
@@ -296,7 +296,7 @@ Case Discussion (cont.)
 
 Data and narrative: "East of the River" Community.
 
-[Equitable Development Material](https://www.policylink.org/)
+{{% resource_link "29a3106d-0a39-4e75-b758-96f9cec9cef3" "Equitable Development Material" %}}
 
 *Recommended Readings*
 
@@ -304,11 +304,11 @@ Gillette, Howard. *Between Justice and Beauty*. Baltimore, MD: Johns Hopkins Uni
 
 Williams, Brett. "A River Runs Through Us." *American Anthropologist* 103, no. 2 (June 2001): 409-431.
 
-PolicyLink. "Promoting Regional Equity." Framing Paper, November 2002. ([PDF - 1.2 MB](http://community-wealth.org/sites/clone.community-wealth.org/files/downloads/report-robinson-et-al.pdf))
+PolicyLink. "Promoting Regional Equity." Framing Paper, November 2002. ({{% resource_link "66aaccd5-c4bd-445a-8042-f42e06991e4f" "PDF - 1.2 MB" %}})
 
 Fuller, Steven. "The Employment Sectors of Washington, DC." Center for Regional Analysis, School of Public Policy, George Mason University, Washington, DC, 2004.
 
-[DC Tenants Advocacy Coalition](http://www.tenac.org/index.shtml)
+{{% resource_link "41bc6904-3147-4f55-b109-567cf929303b" "DC Tenants Advocacy Coalition" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R4
@@ -328,13 +328,13 @@ Lengel, Allan. "From Blight to Beautification." *The Washington Post*, May 26, 2
 
 Summit Fund of Washington. "Building Support for Restoring the Anacostia River." December, 2004.
 
-[DC Appleseed Center](https://www.dcappleseed.org/)
+{{% resource_link "7021db66-5b8a-44aa-b711-0139d71e0670" "DC Appleseed Center" %}}
 
-Byron, Joan. "Transforming the Southern Bronx River Watershed." Pratt Institute Center for Community and Environmental Development Working Paper. Presented at the Walk21-V Cities for People Conference, Copenhagen, Denmark, 2004. ([PDF - 4.2 MB](https://mail.prattcenter.net/sites/default/files/transforming_the_southern_bronx_river_watershed.pdf))
+Byron, Joan. "Transforming the Southern Bronx River Watershed." Pratt Institute Center for Community and Environmental Development Working Paper. Presented at the Walk21-V Cities for People Conference, Copenhagen, Denmark, 2004. ({{% resource_link "901b4ff8-5049-41f9-b2e2-3884d414adac" "PDF - 4.2 MB" %}})
 
-Hamilton, James. "Is It Justice or Redistribution?" Review of Foreman, Christopher, Jr. "The Promise and Peril of Environmental Justice." *Regulation* 22, no. 3 (Summer 1999). ([PDF](https://www.cato.org/sites/cato.org/files/serials/files/regulation/1999/10/reviews.pdf#page=9))
+Hamilton, James. "Is It Justice or Redistribution?" Review of Foreman, Christopher, Jr. "The Promise and Peril of Environmental Justice." *Regulation* 22, no. 3 (Summer 1999). ({{% resource_link "5dd69fde-4176-457a-b71d-0ee5eb6b6c63" "PDF" %}})
 
-S.1472. "[Anacostia Watershed Initiative Act of 2005](http://thomas.loc.gov/cgi-bin/query/z?c109:S.1472:)." Introduced in the Senate, July 22, 2005.
+S.1472. "{{% resource_link "77fd66d4-09d5-4ba6-86ac-b4ee729fddb2" "Anacostia Watershed Initiative Act of 2005" %}}." Introduced in the Senate, July 22, 2005.
 
 DC's Transit Future: Anacostia Streetcar Project.
 
@@ -344,19 +344,19 @@ Layton, Lyndsey. "D.C. to Study 2.7-Mile Light-Rail Line in Anacostia; Experimen
 
 "Anacostia Corridor Demonstration Project: Executive Summary of the General Plans and Environmental Assessment for the Anacostia Demonstration Project." District of Columbia Department of Transportation and Washington Metropolitan Area Transit Authority, September 2003. (PDF)
 
-Anacostia Corridor Demonstration Project: Public Hearing Staff Report. Hearing 157, Docket R03-4, December 2003. ([PDF](http://www.ncpc.gov/DocumentDepot/Actions_Recommendations/2011Feb/11th_Street_Bridge_Replacement_Recommendation_6951_February2011_.pdf))
+Anacostia Corridor Demonstration Project: Public Hearing Staff Report. Hearing 157, Docket R03-4, December 2003. ({{% resource_link "73220ea8-cb73-4f26-a51b-77d1162a692c" "PDF" %}})
 
-Blumenberg, E., and Margy Waller. "The Long Journey to Work: A Federal Transportation Policy for Working Families." Brookings Institution Series on Transportation Reform, July 2003. ([PDF](https://www.brookings.edu/wp-content/uploads/2016/06/20030801_Waller.pdf))
+Blumenberg, E., and Margy Waller. "The Long Journey to Work: A Federal Transportation Policy for Working Families." Brookings Institution Series on Transportation Reform, July 2003. ({{% resource_link "6c50edb9-3404-415c-8f9f-bb60ccb57134" "PDF" %}})
 
 Ruben, Barbara. "A New Appreciation for Living in the City." *The Washington Post*, DC Extra, T52, April 21, 2005.
 
-Fox, R. K., and K. Rose. "Expanding Housing Opportunities in Washington, DC: The Case for Inclusionary Zoning." PolicyLink Report, Fall 2003. ([PDF - 1.7 MB](https://studylib.net/doc/13651406/expanding-housing-opportunity-in-washington--dc-the-case-…))
+Fox, R. K., and K. Rose. "Expanding Housing Opportunities in Washington, DC: The Case for Inclusionary Zoning." PolicyLink Report, Fall 2003. ({{% resource_link "e913ee62-842e-46c7-b90e-4586660441d6" "PDF - 1.7 MB" %}})
 
-Rivlin, Alice. "[Homes for an Inclusive City: A Comprehensive Housing Strategy for Washington, DC](https://www.brookings.edu/wp-content/uploads/2016/07/20060405_housingstrategy.pdf)." Executive Summary. Brookings Institution, Washington, DC, April 2006.
+Rivlin, Alice. "{{% resource_link "599c556e-9185-478a-a941-1b0099106e62" "Homes for an Inclusive City: A Comprehensive Housing Strategy for Washington, DC" %}}." Executive Summary. Brookings Institution, Washington, DC, April 2006.
 
-Turner, Margery, et al. "[Housing in the Nation's Capital 2004](http://www.urban.org/publications/1000740.html)." Fannie Mae Foundation and The Urban Institute, 2004.
+Turner, Margery, et al. "{{% resource_link "d116ff39-16b9-4159-bf78-c0c0a07c67d2" "Housing in the Nation's Capital 2004" %}}." Fannie Mae Foundation and The Urban Institute, 2004.
 
-Turner, Margery. "An Equitable Housing Strategy for the District of Columbia." Metropolitan Housing and Communities Center Brief no. 1, June 2004. ([PDF](http://www.urban.org/UploadedPDF/311020_housing_DC.pdf))
+Turner, Margery. "An Equitable Housing Strategy for the District of Columbia." Metropolitan Housing and Communities Center Brief no. 1, June 2004. ({{% resource_link "baf5658b-32e2-4304-91b7-caeb1c083c07" "PDF" %}})
 
 Fuller, Steven. "The Economic Outlook for the Washington Area and the District of Columbia." Center for Regional Analysis Forecast Report, Washington, DC, October 2004.
 
@@ -364,11 +364,11 @@ Holzer, Harry. *What Employers Want: Job Prospects for Less-Educated Workers*. N
 
 Turner, Margery, and Mark Rubin. "Geography of Low-Skilled Work and Workers." The Urban Institute, Washington, DC, February 1, 1998.
 
-Turner, Margery, and Mark Rubin. "Current Patterns of Employment in the Washington Metropolitan Area." The Urban Institute, Washington, DC, May 1999. ([PDF](http://earthops.org/dc_divided/rubin_turner.pdf))
+Turner, Margery, and Mark Rubin. "Current Patterns of Employment in the Washington Metropolitan Area." The Urban Institute, Washington, DC, May 1999. ({{% resource_link "80814630-3e2b-4527-9950-fd9a1f1c610b" "PDF" %}})
 
-"Building Community Ownership in Neighborhood Revitalization." Annie E. Casey Foundation, Baltimore, MD, 2005. ([PDF](https://www.aecf.org/resources/building-community-ownership-in-neighborhood-revitalization/))
+"Building Community Ownership in Neighborhood Revitalization." Annie E. Casey Foundation, Baltimore, MD, 2005. ({{% resource_link "b556e4ee-9f4f-477b-b426-3e3f20d1ad58" "PDF" %}})
 
-Ross, Martha. "Neighborhood Economies." Issue Scan. The Brookings Institution, Washington, DC, 2004. ([PDF](https://www.brookings.edu/wp-content/uploads/2016/06/2004_issuescan.pdf))
+Ross, Martha. "Neighborhood Economies." Issue Scan. The Brookings Institution, Washington, DC, 2004. ({{% resource_link "d9fb87b7-fd12-4f0a-a071-4b722aedf9ef" "PDF" %}})
 
 Rubin, Mark, and Davis Kim. "Retail Challenges in Washington, DC: An Analysis of Six Retail Categories." The Urban Institute, Washington, DC, June 2001. 
 
@@ -426,7 +426,7 @@ Debrief Negotiation Exercise
 
 *Required Readings*
 
-Briggs, Xavier de Souza. "We are all negotiators now." [The Community Problem-Solving Project](http://web.mit.edu/cpsproject/) @ MIT (2003).
+Briggs, Xavier de Souza. "We are all negotiators now." {{% resource_link "1cc3a349-7fc2-43a6-b211-91a8a3a9b0df" "The Community Problem-Solving Project" %}} @ MIT (2003).
 
 Moore, Christopher. "Circle of Conflict." In *The Mediation Process*. San Francisco, CA: Jossey-Bass, 1996, pp. 60-61. ISBN: 0787902489.
 
@@ -452,7 +452,7 @@ Briggs, Xavier de Souza. "Civilization in Color: The Multi-cultural City in Thre
 
 *Recommended Readings*
 
-Fainstein, Susan. "[Cities and Diversity: Should We Want It? Can We Plan For It?](https://doi.org/10.1177/1078087405278968)" *Urban Affairs Review* 41, no. 1 (September 2005): 3-19.
+Fainstein, Susan. "{{% resource_link "9d8ca863-8fcd-4a17-8b55-ae9252573c6f" "Cities and Diversity: Should We Want It? Can We Plan For It?" %}}" *Urban Affairs Review* 41, no. 1 (September 2005): 3-19.
 
 Sandercock, Leonie. "Towards a Planning Imagination for the 21st Century." *Journal of the American Planning Association* 70, no. 2 (March 2004): 133-141.
 
